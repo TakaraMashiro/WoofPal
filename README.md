@@ -1,1 +1,1 @@
-TinDog Starting Files
+WoofPal Starting Files
